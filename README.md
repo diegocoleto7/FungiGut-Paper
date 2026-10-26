@@ -53,9 +53,3 @@ Rscript R/04_diversity.R     # or a single step
 | Figure 5 | `04_diversity.R` | `results/figures/Figure5_diversity.png`, `alpha_diversity_wilcoxon.csv`, `beta_diversity_permanova.csv` |
 | Supp. Tables 10–11 | `05_cohort_abundance.R` | `{fungigut,micop}_{control,nrcd}_abundance_mean.csv` |
 | Supp. Tables 1–6, 9 | — | Input data in `data/` |
-
-## Notes
-
-- **Batch correction.** MMUPHin is run with `batch = "Group"`. The cohort (NRCD vs MetaCardis) is fully confounded with disease status, so the correction also shrinks the NRCD/Control difference that is later tested with PERMANOVA.
-- **Chao1 for MiCoP.** MiCoP count tables contain no singletons, so Chao1 for MiCoP is a lower bound and phyloseq warns about it.
-- **Figure 4 tests.** Set1 and Set1_filtered are the same samples before and after removing bacterial reads, but they are compared with an unpaired Wilcoxon test.
