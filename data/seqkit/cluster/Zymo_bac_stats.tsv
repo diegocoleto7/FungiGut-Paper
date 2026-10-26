@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len
+SRR25508151_bacclean_R1.fastq.gz	FASTQ	DNA	6716998	711131432	50	105.9	146

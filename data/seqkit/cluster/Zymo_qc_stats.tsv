@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len
+SRR25508151_filtered_R1.fastq.gz	FASTQ	DNA	22413770	2484645788	50	110.9	146

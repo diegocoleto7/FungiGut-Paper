@@ -1,0 +1,15 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len
+sample10_filtered_R1.fastq.gz	FASTQ	DNA	16618631	2406884021	50	144.8	145
+sample11_filtered_R1.fastq.gz	FASTQ	DNA	16622399	2407419114	50	144.8	145
+sample12_filtered_R1.fastq.gz	FASTQ	DNA	16616308	2406539265	50	144.8	145
+sample13_filtered_R1.fastq.gz	FASTQ	DNA	16609340	2405544204	50	144.8	145
+sample14_filtered_R1.fastq.gz	FASTQ	DNA	16601038	2404319140	50	144.8	145
+sample15_filtered_R1.fastq.gz	FASTQ	DNA	16615043	2406349910	50	144.8	145
+sample16_filtered_R1.fastq.gz	FASTQ	DNA	16615021	2406353344	50	144.8	145
+sample17_filtered_R1.fastq.gz	FASTQ	DNA	16623520	2407591675	50	144.8	145
+sample18_filtered_R1.fastq.gz	FASTQ	DNA	16622892	2407515004	50	144.8	145
+sample19_filtered_R1.fastq.gz	FASTQ	DNA	16618397	2406892630	50	144.8	145
+sample1_filtered_R1.fastq.gz	FASTQ	DNA	16622719	2407425836	50	144.8	145
+sample20_filtered_R1.fastq.gz	FASTQ	DNA	16612945	2406035373	50	144.8	145
+sample2_filtered_R1.fastq.gz	FASTQ	DNA	16617022	2406669364	50	144.8	145
+sample3_filtered_R1.fastq.gz	FASTQ	DNA	16609441	2405539112	50	144.8	145

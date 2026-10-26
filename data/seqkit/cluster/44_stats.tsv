@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len
+SRR14351851_1.fastq.gz	FASTQ	DNA	11157987	3347396100	300	300.0	300
